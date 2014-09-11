@@ -1,0 +1,2 @@
+Sitemap: https://eewprs.github.io/site/sitemap.xml
+Sitemap: https://eewprs.github.io/site/sitemap
